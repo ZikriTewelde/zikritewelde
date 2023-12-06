@@ -19,7 +19,11 @@
 
 Conducted a comprehensive sentiment analysis of Amazon Fine Food Reviews, employing both the Vader sentiment analysis tool and the advanced capabilities of the Roberta pretrained model from Hugging Face. 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+<p align="center">
+  <img src="sentimentpics/Sentiment1.jpeg" alt="Sentiment1" width="400"/>
+</p>
+
+
 
 ## Education
 - B.S., Physics | Eritrea Institute of technology(_June 2016_)
