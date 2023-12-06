@@ -17,5 +17,9 @@
 ### Sentiment Analysis  Using VADER and Roberta Pretrained Models
 [Amazon Fine Food Reviews Sentiment Analysis](https://github.com/ZikriTewelde/amazon-fine-food-sentiment-analysis)
 
+Conducted a comprehensive sentiment analysis of Amazon Fine Food Reviews, employing both the Vader sentiment analysis tool and the advanced capabilities of the Roberta pretrained model from Hugging Face. 
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
 ## Education
 - B.S., Physics | Eritrea Institute of technology(_June 2016_)
