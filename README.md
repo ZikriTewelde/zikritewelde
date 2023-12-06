@@ -1,6 +1,6 @@
 # Data Scientist/Analyst
 
-#### Technical Skills: Python, SQL, R, Tableau, Statistics, Machine Learning, Data Science
+#### Technical Skills: Python, SQL, R, Tableau, Statistics, Machine Learning, Data Science, Applied Physics, Mathematics
 
 
 ## Work Experience
