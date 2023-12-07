@@ -23,6 +23,14 @@ Conducted a comprehensive sentiment analysis of Amazon Fine Food Reviews, employ
   <img src="sentimentpics/Sentiment1.jpeg" alt="Sentiment1" width="400"/>
 </p>
 
+### Instagram Reach Prediction using Different Regression Models
+[Instagram Reach Predictor](https://github.com/ZikriTewelde/InstaReachPredictor)
+
+Conducted Instagram reach analysis using machine learning, exploring various regression models (Linear Regression, Lasso, Ridge, ElasticNet, RandomForest, DecisionTree, KNeighbors, GradientBoosting) to predict impressions based on engagement features.
+
+<p align="center">
+  <img src="repoIMGs/socialM.jpg" alt="socialM" width="300"/>
+</p>
 
 
 ## Education
