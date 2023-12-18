@@ -1,7 +1,9 @@
 # Data Scientist/Analyst
 
-#### Technical Skills: Python, SQL, R, Tableau, Statistics, Machine Learning, Data Science, Applied Physics, Mathematics
-
+#### Programing Languages: Python, SQL, R, HTML, CSS, JS
+#### Frameworks and Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, TensorFlow, Keras, PyTorch, ggplot2, dplyr
+### Tools and Technologies: Tableau, Microsoft SQL, Jupyter Notebook, Watson Studio, PyCharm, Google Big Query
+### Machine Learning:  Supervised Learning, Unsupervised Learning, Neural Networks
 
 ## Work Experience
 
