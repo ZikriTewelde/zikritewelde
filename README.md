@@ -34,10 +34,12 @@ Conducted a comprehensive sentiment analysis of Amazon Fine Food Reviews, employ
 
 Conducted Instagram reach analysis using machine learning, exploring various regression models (Linear Regression, Lasso, Ridge, ElasticNet, RandomForest, DecisionTree, KNeighbors, GradientBoosting) to predict impressions based on engagement features.
 
-### FitBit Fitness Tracker Data Analysis Using MS SQL
-[Fitness Tracker Device Data Analysis](https://github.com/ZikriTewelde/BellaBitProject-SQL)
+### Fitness Tracker Device  Data Analysis Using Using SQL And Python
+[BellaBit Case Study SQL](https://github.com/ZikriTewelde/BellaBitProject-SQL)
 
-Analysis of Fitbit, a widely-used wellness and fitness tracking device, along with its user data. The objective is to derive insights for the development of a similar, yet enhanced device, by understanding user preferences, behaviors, and areas for improvement.
+[BellaBit Case Study Python](https://github.com/ZikriTewelde/BellaBeat-Project-Python/tree/main)
+
+Analysis of Fitbit Dataset, a widely-used wellness and fitness tracking device, along with its user data. The objective is to derive insights for the development of a similar, yet enhanced device, by understanding user preferences, behaviors, and areas for improvement.
 <p align="center">
   <img src="repoIMGs/socialM.jpg" alt="socialM" width="300"/>
 </p>
